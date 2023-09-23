@@ -1,0 +1,29 @@
+.user-page-wrapper {
+  width: 400px;
+  background-color: #fff;
+  padding: 15px;
+  border-radius: 5px;
+  border: 1px solid #f2f2f2;
+  margin: 20px auto;
+}
+
+.user-page-wrapper h1 {
+  font-size: 25px;
+  padding: 0;
+  margin: 10px 10px 20px 10px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.user-page-wrapper h4 {
+  font-size: 18px;
+  padding: 0;
+  margin: 20px 10px 10px 0;
+  text-transform: uppercase;
+  color: #3771c7;
+}
+
+.user-page-wrapper span {
+  font-weight: bold;
+  color: #3771c7;
+}
