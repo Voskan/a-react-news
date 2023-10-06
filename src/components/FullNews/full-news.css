@@ -1,0 +1,15 @@
+.fullNewsCard {
+  min-height: 500px;
+  background-color: #ebebeb;
+  border-radius: 5px 5px 0 0;
+}
+
+.newDate {
+  display: block;
+  font-size: 12px;
+  color: #787878;
+}
+
+.newsCard {
+  max-width: 500px;
+}
